@@ -1,0 +1,10 @@
+Antonio Maletic 10 	9 	9 	16
+Borna Gjenero 	10 	12 	10 	18
+Djuro Rukavina 	9 	11 	9 	16
+Luka Blagojevic 10 	7 	6 	8
+Marko Pavic 	10 	12 	10 	15
+Nenad Caklovic 	5 	-8 	9 	11
+Mihael Krpes 	10 	9 	8 	14
+Petar Huljek 	10 	10 	10 	18
+Sonja Perkovic 	10 	10 	10 	18
+Tin Basic 	    5 	0   9 	6
