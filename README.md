@@ -73,3 +73,23 @@ U zagradi je ocjena, računa se po sljedećoj skali:
 Uputstva: 
 - koristite `std::vector` i samo standardne algoritme: `copy`, `copy_n`, `remove_if`, `sort`, `accumulate`
 - struktura za studenta neka sadrži `std::array`za bodove po zadatku
+
+### Rješenja
+
+Primjer rješenja (u *branchu* solution):
+![commit](../../commit/1907b6f0923c9d41639139394bfd91e8c1ebe73f)
+
+### Rezultati
+
+|                         | 1 | 2 | 3 | bod | ocjena | ukupno|
+| -----------             | - | - | - | --- | ------ |------ |
+| Petar Huljek            |15 |14 |18 | 47  |   5    | **5** |
+| Sonja Perković          |15 |13 |18 | 46  |   5    | **5** |
+| Borna Gjenero           |14 |13 |18 | 45  |   5    | **5** |
+| Antonio Maletić         | 7 |15 |18 | 40  |   4    | **4** |
+| Marko Pavić             |11 |11 |   | 22  |   2    | **3** |
+| Đuro Rukavina           | 6 | 7 | 8 | 21  |   2    | **3** |
+| Hrvoje Janđel           |10 |10 |   | 20  |   2    |       |
+| Mihael Krpes            | 8 |   | 9 | 17  |        |       |
+| Luka Blagojević         |   |   |   |     |        |       |
+
